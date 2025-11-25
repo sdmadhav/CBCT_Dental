@@ -1,9 +1,3 @@
-```
-
----
-
-# README.md
-
 # CBCT Dental Image Analysis Pipeline
 
 A comprehensive, production-ready deep learning pipeline for analyzing CBCT (Cone Beam Computed Tomography) dental images. This system provides end-to-end functionality from DICOM data loading to model training, evaluation, and inference.
